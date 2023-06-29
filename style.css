@@ -4,7 +4,7 @@ body,
   margin: 0;
   width: 100%;
   height: auto;
-  background:#8abdf2;
+  background:#7289DA;
   text-align:center
 }
 @font-face {
@@ -61,7 +61,8 @@ body,
   font-size:40px
 }
 .background{
-  background-image:url(https://github.com/dobabaophuc1706/dobabaophuc1706.github.io/raw/main/Banner.jpg);
+  background-image:url(https://cdn.discordapp.com/attachments/185046628732895232/204497752091000832/bg3.svg);
+  background-size:50%;
 }
 .step{
   font-smooth: auto;
@@ -102,15 +103,26 @@ body,
   padding:0 5px;
   color:#fff
 }
+a{
+  background:rgba(255,255,255,0.1);
+  display:inline-block;
+  opacity:1;
+  border-radius:2px;
+  padding:0 5px;
+  color:#fff
+}
+a:hover{
+  background:rgba(255,255,255,0.2);
+}
 .highlight:hover{
   background:rgba(255,255,255,0.2);
 }
-.bottom-wrapper{ 
-  width:100%; 
-  background:#2C2F33; 
-  text-align:center; 
-  padding-top:30px; 
-  padding-bottom:30px; 
+.bottom-wrapper{
+  width:100%;
+  background:#2C2F33;
+  text-align:center;
+  padding-top:30px;
+  padding-bottom:30px;
 }
 .wsite{
   text-decoration:none;
