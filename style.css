@@ -105,6 +105,13 @@ body,
 .highlight:hover{
   background:rgba(255,255,255,0.2);
 }
+.bottom-wrapper{ 
+  width:100%; 
+  background:#2C2F33; 
+  text-align:center; 
+  padding-top:30px; 
+  padding-bottom:30px; 
+}
 .wsite{
   text-decoration:none;
   color:#fff;
