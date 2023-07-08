@@ -4,7 +4,7 @@ body,
   margin: 0;
   width: 100%;
   height: auto;
-  background:#7289DA;
+  background:#000000;
   text-align:center
 }
 @font-face {
@@ -121,8 +121,8 @@ a:hover{
   width:100%;
   background:#2C2F33;
   text-align:center;
-  padding-top:50px;
-  padding-bottom:50px;
+  padding-top:30px;
+  padding-bottom:30px;
 }
 .wsite{
   text-decoration:none;
