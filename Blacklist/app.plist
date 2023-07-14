@@ -25,7 +25,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.phucdo.blacklist.vn</string>
+                    <string>com.phucdo.blacklist</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
