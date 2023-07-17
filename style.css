@@ -55,10 +55,13 @@ body,
 .title{
   font-smooth: auto;
   padding-top:80px;
-  font-family: monaco, Consolas, "Lucida Console", monospace;
-  font-weight:700;
+  font-family: "Brush Script MT", cursive; 
+  font-size: 49px; 
+  font-style: normal;
+  font-variant: normal; 
+  font-weight: 700; 
+  line-height: 53.9px;
   color:#fff;
-  font-size:40px
 }
 .background{
   background-image:url(https://cdn.discordapp.com/attachments/185046628732895232/204497752091000832/bg3.svg);
@@ -66,21 +69,28 @@ body,
 }
 .step{
   font-smooth: auto;
-  font-family: 'Whitney', sans-serif;
-  font-weight:700;
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+  font-size: 30px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+  line-height: 24px;
   color:#fff;
-  font-size:22px;
   opacity:0.8
 }
 .link {
   text-decoration:none;
   color:#fff;
-  font-family: 'Whitney', sans-serif;
-  font-size:13px;
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+  font-size: 24px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+  line-height: 24px;
   opacity:0.8;
   margin-right:auto;
   margin-left:auto;
-  padding:10px 20px;
+  padding:20px 40px;
   border:2px solid #fff;
   border-radius:100px;
 }
@@ -90,10 +100,10 @@ body,
   }
 .instructions{
   font-smooth: auto;
-  font-family: 'Whitney', sans-serif;
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
   font-weight:650;
   color:rgba(255,255,255,0.65);
-  font-size:16px;
+  font-size:18px;
 }
 .highlight{
   background:rgba(255,255,255,0.1);
