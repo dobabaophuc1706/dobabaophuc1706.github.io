@@ -82,7 +82,7 @@ body,
   text-decoration:none;
   color:#fff;
   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
-  font-size: 21px; 
+  font-size: 18px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 700; 
@@ -90,7 +90,7 @@ body,
   opacity:0.8;
   margin-right:auto;
   margin-left:auto;
-  padding:20px 40px;
+  padding:10px 20px;
   border:2px solid #fff;
   border-radius:100px;
 }
