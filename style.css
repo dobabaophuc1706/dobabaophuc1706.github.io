@@ -55,7 +55,7 @@ body,
 .title{
   font-smooth: auto;
   padding-top:80px;
-  font-family: 'Whitney', sans-serif;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
   font-weight:700;
   color:#fff;
   font-size:40px
