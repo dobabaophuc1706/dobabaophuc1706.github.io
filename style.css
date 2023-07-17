@@ -56,7 +56,7 @@ body,
   font-smooth: auto;
   padding-top:80px;
   font-family: "Brush Script MT", cursive; 
-  font-size: 49px; 
+  font-size: 50px; 
   font-style: normal;
   font-variant: normal; 
   font-weight: 700; 
@@ -70,7 +70,7 @@ body,
 .step{
   font-smooth: auto;
   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
-  font-size: 30px; 
+  font-size: 24px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 700; 
@@ -82,7 +82,7 @@ body,
   text-decoration:none;
   color:#fff;
   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
-  font-size: 24px; 
+  font-size: 21px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 700; 
@@ -103,7 +103,7 @@ body,
   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
   font-weight:650;
   color:rgba(255,255,255,0.65);
-  font-size:18px;
+  font-size:16px;
 }
 .highlight{
   background:rgba(255,255,255,0.1);
