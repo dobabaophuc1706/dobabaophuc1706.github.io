@@ -55,7 +55,7 @@ body,
 .title{
   font-smooth: auto;
   padding-top:80px;
-   font-family: "Brush Script MT", cursive; 
+  font-family: "Brush Script MT", cursive; 
   font-size: 50px; 
   font-style: normal;
   font-variant: normal; 
@@ -94,6 +94,7 @@ body,
   border:2px solid #fff;
   border-radius:100px;
 }
+
 .link:hover{
   opacity:1;
   }
@@ -135,7 +136,7 @@ a:hover{
 }
 .wsite{
   text-decoration:none;
-  color:#000;
+  color:#fff;
   font-family: 'Whitney', sans-serif;
   font-size:18px;
   opacity:0.5;
