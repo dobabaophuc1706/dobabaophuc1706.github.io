@@ -79,4 +79,13 @@ function loadVideo() {
 	videoSource.setAttribute("src", url);
 	video.load();
 	video.play();
+}
+
+loadButton.addEventListener("click", function () {
+	loadVideo();
+	video.play();
+	playButton.innerHTML =
+		'<span class="pause-icon"><i class="fa fa-solid fa-pause">	</i></span>';
+	playButton.style.opacity = "0";
+	playButton.style.transition = "opacity ease 1s";
 });
