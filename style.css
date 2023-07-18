@@ -148,24 +148,6 @@ a:hover{
 body{
     margin:0;
 }
-#container{
-    position: relative;
-    width:100%;
-    height:100vh;
-    background-image: url(background.jpg);
-    background-size: cover;
-    background-position: center;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-h1{
-    color:#fff;
-    margin:0;
-    font-size: 100px;
-    font-family: 'Snowburst One', cursive;
-}
 .snow{
     position: absolute;
     top:0;
