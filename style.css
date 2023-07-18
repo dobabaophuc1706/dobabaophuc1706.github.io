@@ -145,9 +145,6 @@ a:hover{
 .bottom-wrapper:hover .wsite{
   opacity:0.8
 }
-body{
-    margin:0;
-}
 <style>
   @-webkit-keyframes snowflakes-fall {
     0% {top:-10%}
@@ -167,9 +164,9 @@ body{
   }
   .snowflake {
     color: #fff;
-    font-size: 2em;
+    font-size: 1em;
     font-family: Arial, sans-serif;
-    text-shadow: 0 0 5px #000;
+    text-shadow: 0 0 10px #000;
     position:fixed;
     top:-10%;
     z-index:9999;
