@@ -164,9 +164,9 @@ a:hover{
   }
   .snowflake {
     color: #fff;
-    font-size: 1em;
+    font-size: 2em;
     font-family: Arial, sans-serif;
-    text-shadow: 0 0 5px #000;
+    text-shadow: 0 0 10px #000;
     position:fixed;
     top:-10%;
     z-index:9999;
