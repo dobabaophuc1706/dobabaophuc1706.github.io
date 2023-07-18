@@ -79,31 +79,4 @@ function loadVideo() {
 	videoSource.setAttribute("src", url);
 	video.load();
 	video.play();
-}
-let container = document.getElementById('container');
-let count = 50;
-for(var i = 0; i<50; i++){
-    let leftSnow = Math.floor(Math.random() * container.clientWidth);
-    let topSnow = Math.floor(Math.random() * container.clientHeight);
-    let widthSnow = Math.floor(Math.random() * 50);
-    let timeSnow = Math.floor((Math.random() * 5) + 5);
-    let blurSnow = Math.floor(Math.random() * 10);
-    console.log(leftSnow);
-    let div = document.createElement('div');
-    div.classList.add('snow');
-    div.style.left = leftSnow + 'px';
-    div.style.top = topSnow + 'px';
-    div.style.width = widthSnow + 'px';
-    div.style.height = widthSnow + 'px';
-    div.style.animationDuration = timeSnow + 's';
-    div.style.filter = "blur(" + blurSnow + "px)";
-    container.appendChild(div);
-}
-loadButton.addEventListener("click", function () {
-	loadVideo();
-	video.play();
-	playButton.innerHTML =
-		'<span class="pause-icon"><i class="fa fa-solid fa-pause">	</i></span>';
-	playButton.style.opacity = "0";
-	playButton.style.transition = "opacity ease 1s";
 });
