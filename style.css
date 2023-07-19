@@ -223,3 +223,10 @@ a:hover{
     left:65%;-webkit-animation-delay:4s,2.5s;animation-delay:4s,2.5s
   }
 </style>
+<style>
+    .mycursor {
+        cursor: url("https://github.com/dobabaophuc1706/dobabaophuc1706.github.io/raw/main/cursor.png"), auto;
+        height: 50px;
+        border: 1px solid red;
+    }
+</style>
