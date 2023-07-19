@@ -145,6 +145,9 @@ a:hover{
 .bottom-wrapper:hover .wsite{
   opacity:0.8
 }
+p {
+    cursor: wait;
+}
 <style>
   @-webkit-keyframes snowflakes-fall {
     0% {top:-10%}
@@ -222,11 +225,4 @@ a:hover{
   .snowflake:nth-of-type(11){
     left:65%;-webkit-animation-delay:4s,2.5s;animation-delay:4s,2.5s
   }
-</style>
-<style>
-    .mycursor {
-        cursor: url("https://github.com/dobabaophuc1706/dobabaophuc1706.github.io/raw/main/cursor.png"), auto;
-        height: 50px;
-        border: 1px solid red;
-    }
 </style>
