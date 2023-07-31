@@ -145,6 +145,19 @@ a:hover{
 .bottom-wrapper:hover .wsite{
   opacity:0.8
 }
+.about{
+  font-smooth: auto;
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace; 
+  font-weight:650;
+  position: relative;
+  top: 50%;
+  border-right: 2px solid rgba(255, 255, 255, .75);
+  white-space: nowrap;
+  overflow: hidden;
+  color:rgba(255,255,255,0.65);
+  font-size: 17px;
+  animation: typewriter 4s steps(50) 1s 1 normal both, blinkTextCursor 530ms steps(50) infinite normal;
+}
 p {
     cursor: wait;
 }
