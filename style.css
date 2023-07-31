@@ -154,7 +154,7 @@ a:hover{
   border-right: 2px solid rgba(255, 255, 255, .75);
   white-space: nowrap;
   overflow: hidden;
-  color:rgba(255,255,255,0.65);
+  color: #ccd9eb;
   font-size: 17px;
   animation: typewriter 4s steps(50) 1s 1 normal both, blinkTextCursor 530ms steps(50) infinite normal;
 }
