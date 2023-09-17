@@ -46,7 +46,15 @@ new Vue({
           artist: "Tama x Bell",
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/ngayemdepnhat.jpg",
           source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/ngayemdepnhat.mp3",
-          url: "https://www.youtube.com/watch?v=BGAtgfyPkPA",
+          url: "https://www.youtube.com/watch?v=mnQMvKnvEKs",
+          favorited: false
+        },
+        {
+          name: "Hoa co lau",
+          artist: "Phong Max x RIN",
+          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/hoacolau.jpg",
+          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/hoacolau.mp3",
+          url: "https://www.youtube.com/watch?v=rBjf1PmbXLo",
           favorited: false
         },
         {
