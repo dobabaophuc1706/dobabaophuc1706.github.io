@@ -58,6 +58,14 @@ new Vue({
           favorited: false
         },
         {
+          name: "Nhu anh da thay em",
+          artist: "Phong Max x RIN",
+          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/nhuanhdathayem.jpg",
+          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/nhuanhdathayem.mp3",
+          url: "https://www.youtube.com/watch?v=UcAhJQBjX7Q",
+          favorited: false
+        },
+        {
           name: "Dao Nuong",
           artist: "Lofi",
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/daonuong.jpg",
