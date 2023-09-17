@@ -18,6 +18,22 @@ new Vue({
           favorited: false
         },
         {
+          name: "Some where only we know",
+          artist: "Rhianne cover",
+          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/somewhereonlyweknow.jpg",
+          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/somewhereonlyweknow.mp3",
+          url: "https://www.youtube.com/watch?v=Sjq_1WRyNBo",
+          favorited: true
+        },
+        {
+          name: "Chanh long thuong co",
+          artist: "Huy Vac",
+          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/chanhlongthuongco.jpg",
+          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/chanhlongthuongco.mp3",
+          url: "https://www.youtube.com/watch?v=CBlt7nwGybQ",
+          favorited: true
+        },
+        {
           name: "Thay toi yeu co ay",
           artist: "Thanh Hung",
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/thaytoiyeucoay.jpeg",
@@ -26,11 +42,11 @@ new Vue({
           favorited: true
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          name: "Dao Nuong",
+          artist: "Lofi",
+          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/daonuong.jpg",
+          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/daonuong.mp3",
+          url: "https://www.youtube.com/watch?v=t5zPYuo310M",
           favorited: false
         }
       ],
