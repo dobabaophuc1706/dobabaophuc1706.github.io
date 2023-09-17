@@ -23,7 +23,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/somewhereonlyweknow.jpg",
           source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/somewhereonlyweknow.mp3",
           url: "https://www.youtube.com/watch?v=Sjq_1WRyNBo",
-          favorited: true
+          favorited: false
         },
         {
           name: "Chanh long thuong co",
@@ -31,7 +31,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/chanhlongthuongco.jpg",
           source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/chanhlongthuongco.mp3",
           url: "https://www.youtube.com/watch?v=CBlt7nwGybQ",
-          favorited: true
+          favorited: false
         },
         {
           name: "Thay toi yeu co ay",
@@ -39,7 +39,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/thaytoiyeucoay.jpeg",
           source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/thaytoiyeucoay.mp3",
           url: "https://www.youtube.com/watch?v=BGAtgfyPkPA",
-          favorited: true
+          favorited: false
         },
         {
           name: "Ngay em dep nhat",
@@ -47,7 +47,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/ngayemdepnhat.jpg",
           source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/ngayemdepnhat.mp3",
           url: "https://www.youtube.com/watch?v=BGAtgfyPkPA",
-          favorited: true
+          favorited: false
         },
         {
           name: "Dao Nuong",
