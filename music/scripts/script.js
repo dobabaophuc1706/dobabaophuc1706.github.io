@@ -42,6 +42,14 @@ new Vue({
           favorited: true
         },
         {
+          name: "Ngay em dep nhat",
+          artist: "Tama x Bell",
+          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/ngayemdepnhat.jpg",
+          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/ngayemdepnhat.mp3",
+          url: "https://www.youtube.com/watch?v=BGAtgfyPkPA",
+          favorited: true
+        },
+        {
           name: "Dao Nuong",
           artist: "Lofi",
           cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/daonuong.jpg",
