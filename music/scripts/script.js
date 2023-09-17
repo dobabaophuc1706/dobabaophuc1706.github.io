@@ -12,8 +12,8 @@ new Vue({
         {
           name: "デート2",
           artist: "RADWIMPS ",
-          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/music/img/date2.jpg",
-          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/music/mp3/date2.mp3",
+          cover: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/img/date2.jpg",
+          source: "https://raw.githubusercontent.com/dobabaophuc1706/dobabaophuc1706.github.io/main/music/mp3/date2.mp3",
           url: "https://www.youtube.com/watch?v=dMJc6kalUCM",
           favorited: false
         },
