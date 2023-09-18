@@ -46,7 +46,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
-            document.title = "Comeback to Phuc Do - Home Page";
+            document.title = "Back to Phuc Do - Home Page";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
     });
