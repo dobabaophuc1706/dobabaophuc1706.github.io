@@ -312,14 +312,26 @@ header .navbar ul li a:hover {
 .social-icons a.twitter:hover {
   background-color: #00aced;
 }
+.social-icons a.facebook:hover {
+  background-color: #1185af;
+}
 .social-icons a.linkedin:hover {
   background-color: #007bb6;
+}
+.social-icons a.spotify:hover {
+  background-color: #34b600;
 }
 .social-icons a.dev:hover {
   background-color: #070707;
 }
 .social-icons a.instagram:hover {
   background-color: #ee00da;
+}
+.social-icons a.misaka:hover {
+  background-color: #00f2ff;
+}
+.social-icons a.discord:hover {
+  background-color: #8f2e86;
 }
 /* social icons end */
 
