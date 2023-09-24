@@ -333,6 +333,9 @@ header .navbar ul li a:hover {
 .social-icons a.discord:hover {
   background-color: #8f2e86;
 }
+.social-icons a.kofi:hover {
+  background-color: #ff0000;
+}
 /* social icons end */
 
 /* hero media queries starts*/
