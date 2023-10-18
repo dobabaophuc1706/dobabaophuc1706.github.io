@@ -316,8 +316,11 @@ header .navbar ul li a:hover {
 .social-icons a.facebook:hover {
   background-color: #1185af;
 }
-.social-icons a.linkedin:hover {
-  background-color: #007bb6;
+.social-icons a.telegram:hover {
+  background-color: #5acbff;
+}
+.social-icons a.yt:hover {
+  background-color: #b60000;
 }
 .social-icons a.spotify:hover {
   background-color: #34b600;
