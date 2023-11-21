@@ -193,7 +193,9 @@ srtop.reveal('.home .github', { interval: 800 });
 srtop.reveal('.home .twitter', { interval: 1000 });
 srtop.reveal('.home .telegram', { interval: 600 });
 srtop.reveal('.home .instagram', { interval: 600 });
-srtop.reveal('.home .dev', { interval: 600 });
+srtop.reveal('.home .yt', { interval: 600 });
+srtop.reveal('.home .spotify', { interval: 600 });
+srtop.reveal('.home .kofi', { interval: 600 });
 
 /* SCROLL ABOUT */
 srtop.reveal('.about .content h3', { delay: 200 });
